@@ -24,16 +24,16 @@ A responsive weather application built with HTML, CSS, and JavaScript that displ
 ## 📸 Preview
 
 ### Initial State
-![Weather App Initial State](preview screenshots/initial-state.png)
+![Weather App Initial State](preview%20screenshots/initial-state.png)
 
 ### Weather Display
-![Weather App Weather Display](preview screenshots/weather-display.png)
+![Weather App Weather Display](preview%20screenshots/weather-display.png)
 
 ### Responsive Mobile View
-![Weather App Mobile View](preview screenshots/mobile-view.png)
+![Weather App Mobile View](preview%20screenshots/mobile-view.png)
 
 ### Error Handling
-![Invalid City Error](preview screenshots/error-handling.png)
+![Invalid City Error](preview%20screenshots/error-handling.png)
 
 
 ## 🚀 Getting Started
